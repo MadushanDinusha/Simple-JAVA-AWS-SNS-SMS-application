@@ -1,0 +1,1 @@
+# Simple-JAVA-AWS-SNS-SMS-application
